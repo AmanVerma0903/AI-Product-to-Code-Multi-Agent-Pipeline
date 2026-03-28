@@ -1,0 +1,31 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+pgvector
+pydantic[email]
+pydantic-settings
+python-multipart
+python-dotenv
+langgraph
+langchain
+langchain-openai
+openai
+tavily-python
+alembic
+pytest
+pytest-asyncio
+httpx
+python-jose[cryptography]
+passlib[bcrypt]
+websockets
+psutil
+ruff
+black
+python-magic; platform_system != 'Windows'
+python-magic-bin; platform_system == 'Windows'
+PyMuPDF
+python-docx
+zipfile36
+PyPDF2
+aiofiles
