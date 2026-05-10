@@ -5,8 +5,7 @@ An advanced, multi-agent AI backend service that transforms natural language bus
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="./diagram-expor![Uploading diagram-export-4-22-2026-1_35_26-PM.png…]()
-t-4-22-2026-1_35_26-PM.png" alt="System Architecture Diagram" width="100%">
+  <img src="System Architecture.png" alt="System Architecture Diagram" width="100%">
 </p>
 
 ---
